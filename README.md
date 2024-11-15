@@ -27,7 +27,7 @@
 #
 
 ### 🗂️ Stats 🗂️
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagosanchezgiraldo&show_icons=true&theme=algolia)
+![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagosanchez17&show_icons=true&theme=algolia)
 
 #
 
